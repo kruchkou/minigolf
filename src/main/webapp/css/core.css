@@ -1,5 +1,5 @@
 #logo {
-  height: 30px;
+  height: 32px;
 }
 
 p,h4, label {
@@ -18,13 +18,13 @@ hr {
   width: 100%;
 }
 
-span {
+.form-group > span {
   margin-left: 20px;
 }
 
 body {
   position: relative;
-  background-color: #7D0037;
+  background-color: #D9950A;
 }
 
 #footer {
@@ -54,10 +54,52 @@ body {
 
 .color-primary {
   color: white;
-  background-color: #7D0037;
+  background-color: #D9950A;
 }
 
 .color-primary:hover {
-  color: white;
-  background-color: #280000;
+  color: #A63C06;
+}
+
+.color-secondary {
+  color: black;
+  background-color: white;
+  border-right: 1px solid gray;
+  border-left: 1px solid gray;
+}
+
+#left-menu {
+  height: max-content;
+  padding-bottom: 16px;
+  background-color: white;
+  margin-right: 12px;
+}
+
+.color-item-expired {
+  background-color: #F6A3BF !important;
+}
+
+.color-item-expired:hover {
+  background-color: #b46478 !important;
+}
+
+.color-item-realised {
+  background-color: #b9f6a3 !important;
+}
+
+.color-item-realised:hover {
+  background-color: #78be64 !important;
+}
+
+.menu-header {
+  height: 38px;
+}
+
+.menu-icon {
+  margin-right: 10px;
+  filter: invert(1);
+}
+
+td {
+  overflow: hidden;
 }
