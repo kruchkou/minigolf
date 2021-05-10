@@ -4,7 +4,6 @@ import by.bsuir.angelina.minigolf.dao.model.entity.Coach;
 import by.bsuir.angelina.minigolf.dao.model.entity.Office;
 import by.bsuir.angelina.minigolf.dao.model.entity.Order;
 import by.bsuir.angelina.minigolf.dao.model.entity.PaymentType;
-import by.bsuir.nika.lombard.dao.model.entity.*;
 
 import javax.servlet.http.HttpServletRequest;
 import java.time.LocalDate;

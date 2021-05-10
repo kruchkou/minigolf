@@ -4,7 +4,6 @@ import by.bsuir.angelina.minigolf.service.impl.CoachServiceImpl;
 import by.bsuir.angelina.minigolf.service.impl.OfficeServiceImpl;
 import by.bsuir.angelina.minigolf.service.impl.OrderServiceImpl;
 import by.bsuir.angelina.minigolf.service.impl.PaymentTypeServiceImpl;
-import by.bsuir.nika.lombard.service.impl.*;
 import lombok.Getter;
 
 public class ServiceProvider {

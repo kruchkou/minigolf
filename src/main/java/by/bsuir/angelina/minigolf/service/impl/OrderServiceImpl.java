@@ -1,12 +1,12 @@
 package by.bsuir.angelina.minigolf.service.impl;
 
-import by.bsuir.angelina.minigolf.service.util.validator.OrderValidator;
-import by.bsuir.angelina.minigolf.dao.OrderDao;
 import by.bsuir.angelina.minigolf.dao.DaoProvider;
+import by.bsuir.angelina.minigolf.dao.OrderDao;
 import by.bsuir.angelina.minigolf.dao.exception.DaoException;
 import by.bsuir.angelina.minigolf.dao.model.entity.Order;
 import by.bsuir.angelina.minigolf.service.OrderService;
 import by.bsuir.angelina.minigolf.service.exception.ServiceException;
+import by.bsuir.angelina.minigolf.service.util.validator.OrderValidator;
 import lombok.Getter;
 
 import java.util.List;

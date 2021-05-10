@@ -1,9 +1,9 @@
 package by.bsuir.angelina.minigolf.dao.impl;
 
+import by.bsuir.angelina.minigolf.dao.OfficeDao;
 import by.bsuir.angelina.minigolf.dao.connection.ConnectionPool;
 import by.bsuir.angelina.minigolf.dao.connection.impl.ConnectionPoolImpl;
 import by.bsuir.angelina.minigolf.dao.exception.DaoException;
-import by.bsuir.angelina.minigolf.dao.OfficeDao;
 import by.bsuir.angelina.minigolf.dao.model.entity.Office;
 import lombok.Getter;
 

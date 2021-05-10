@@ -1,14 +1,13 @@
 package by.bsuir.angelina.minigolf.dao.impl;
 
+import by.bsuir.angelina.minigolf.dao.OrderDao;
 import by.bsuir.angelina.minigolf.dao.connection.ConnectionPool;
 import by.bsuir.angelina.minigolf.dao.connection.impl.ConnectionPoolImpl;
 import by.bsuir.angelina.minigolf.dao.exception.DaoException;
-import by.bsuir.angelina.minigolf.dao.OrderDao;
 import by.bsuir.angelina.minigolf.dao.model.entity.Coach;
 import by.bsuir.angelina.minigolf.dao.model.entity.Office;
 import by.bsuir.angelina.minigolf.dao.model.entity.Order;
 import by.bsuir.angelina.minigolf.dao.model.entity.PaymentType;
-import by.bsuir.nika.lombard.dao.model.entity.*;
 import lombok.Getter;
 
 import java.sql.*;

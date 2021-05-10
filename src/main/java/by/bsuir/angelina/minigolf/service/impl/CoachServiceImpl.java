@@ -1,11 +1,11 @@
 package by.bsuir.angelina.minigolf.service.impl;
 
-import by.bsuir.angelina.minigolf.dao.exception.DaoException;
-import by.bsuir.angelina.minigolf.service.exception.ServiceException;
 import by.bsuir.angelina.minigolf.dao.CoachDao;
 import by.bsuir.angelina.minigolf.dao.DaoProvider;
+import by.bsuir.angelina.minigolf.dao.exception.DaoException;
 import by.bsuir.angelina.minigolf.dao.model.entity.Coach;
 import by.bsuir.angelina.minigolf.service.CoachService;
+import by.bsuir.angelina.minigolf.service.exception.ServiceException;
 import lombok.Getter;
 
 import java.util.List;

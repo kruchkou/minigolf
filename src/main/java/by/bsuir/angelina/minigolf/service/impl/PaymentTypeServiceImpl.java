@@ -1,11 +1,11 @@
 package by.bsuir.angelina.minigolf.service.impl;
 
-import by.bsuir.angelina.minigolf.dao.exception.DaoException;
-import by.bsuir.angelina.minigolf.service.PaymentTypeService;
-import by.bsuir.angelina.minigolf.service.exception.ServiceException;
 import by.bsuir.angelina.minigolf.dao.DaoProvider;
 import by.bsuir.angelina.minigolf.dao.PaymentTypeDao;
+import by.bsuir.angelina.minigolf.dao.exception.DaoException;
 import by.bsuir.angelina.minigolf.dao.model.entity.PaymentType;
+import by.bsuir.angelina.minigolf.service.PaymentTypeService;
+import by.bsuir.angelina.minigolf.service.exception.ServiceException;
 import lombok.Getter;
 
 import java.util.List;

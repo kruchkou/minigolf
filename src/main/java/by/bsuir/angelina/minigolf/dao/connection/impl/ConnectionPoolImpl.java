@@ -1,8 +1,8 @@
 package by.bsuir.angelina.minigolf.dao.connection.impl;
 
 import by.bsuir.angelina.minigolf.dao.connection.ConnectionPool;
-import by.bsuir.angelina.minigolf.dao.exception.DaoException;
 import by.bsuir.angelina.minigolf.dao.exception.ConnectionPoolInitError;
+import by.bsuir.angelina.minigolf.dao.exception.DaoException;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

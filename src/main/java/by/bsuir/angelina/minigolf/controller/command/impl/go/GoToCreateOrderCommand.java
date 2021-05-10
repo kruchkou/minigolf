@@ -8,7 +8,6 @@ import by.bsuir.angelina.minigolf.service.ServiceProvider;
 import by.bsuir.angelina.minigolf.service.exception.ServiceException;
 import by.bsuir.angelina.minigolf.service.util.RegexpPropertyUtil;
 import by.bsuir.angelina.minigolf.service.util.validator.DateValidatorValueProvider;
-import by.bsuir.nika.lombard.service.*;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;

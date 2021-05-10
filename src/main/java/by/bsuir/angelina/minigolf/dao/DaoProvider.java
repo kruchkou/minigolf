@@ -4,7 +4,6 @@ import by.bsuir.angelina.minigolf.dao.impl.CoachDaoImpl;
 import by.bsuir.angelina.minigolf.dao.impl.OfficeDaoImpl;
 import by.bsuir.angelina.minigolf.dao.impl.OrderDaoImpl;
 import by.bsuir.angelina.minigolf.dao.impl.PaymentTypeDaoImpl;
-import by.bsuir.nika.lombard.dao.impl.*;
 import lombok.Getter;
 
 public class DaoProvider {
