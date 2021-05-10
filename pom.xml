@@ -5,9 +5,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>by.bsuir.nika</groupId>
-    <artifactId>lombard</artifactId>
+    <artifactId>minigolf</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>nika</name>
+    <name>minigolf</name>
     <packaging>war</packaging>
 
     <properties>

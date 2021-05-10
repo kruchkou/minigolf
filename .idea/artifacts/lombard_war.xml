@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="lombard:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>lombard</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="minigolf-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="lombard:war exploded" />
+    </root>
+  </artifact>
+</component>

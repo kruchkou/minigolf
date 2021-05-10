@@ -24,7 +24,7 @@ hr {
 
 body {
   position: relative;
-  background-color: #D9950A;
+  background-color: #008000;
 }
 
 #footer {
@@ -54,7 +54,7 @@ body {
 
 .color-primary {
   color: white;
-  background-color: #D9950A;
+  background-color: #38B000;
 }
 
 .color-primary:hover {
